@@ -1,0 +1,15 @@
+C:\Users\Arthur\Documents\rpg_dotnet\bin\Debug\net6.0\rpg_dotnet.exe
+C:\Users\Arthur\Documents\rpg_dotnet\bin\Debug\net6.0\rpg_dotnet.deps.json
+C:\Users\Arthur\Documents\rpg_dotnet\bin\Debug\net6.0\rpg_dotnet.runtimeconfig.json
+C:\Users\Arthur\Documents\rpg_dotnet\bin\Debug\net6.0\rpg_dotnet.dll
+C:\Users\Arthur\Documents\rpg_dotnet\bin\Debug\net6.0\ref\rpg_dotnet.dll
+C:\Users\Arthur\Documents\rpg_dotnet\bin\Debug\net6.0\rpg_dotnet.pdb
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.AssemblyInfo.cs
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.dll
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\ref\rpg_dotnet.dll
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.pdb
+C:\Users\Arthur\Documents\rpg_dotnet\obj\Debug\net6.0\rpg_dotnet.genruntimeconfig.cache
